@@ -6,6 +6,20 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: 'Inter';
+    font-weight: 700;
+    src: url('./assets/fonts/static/Inter-Bold.woff2') format('woff2'),
+         url('./assets/fonts/static/Inter-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-weight: 400;
+    src: url('./assets/fonts/static/Inter-Regular.woff2') format('woff2'),
+         url('./assets/fonts/static/Inter-Regular.woff') format('woff');
+}
+
 :root {
 
     /* Fazer custom properties das cores */
