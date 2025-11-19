@@ -1,0 +1,23 @@
+*,
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+
+    /* Fazer custom properties das cores */
+    --grey-900: #141414;
+    --grey-800: #1F1F1F;
+    --grey-700: #333333;
+    --green: #C4F82A;
+    --white: #FFFFFF;
+
+
+    /* Fazer custom properties das fontes */
+
+
+    /* Fazer custom properties dos espaçamentos */
+}
