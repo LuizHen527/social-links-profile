@@ -22,16 +22,17 @@
 
 :root {
 
-    /* Fazer custom properties das cores */
+    /* Custom properties for colors */
     --grey-900: #141414;
     --grey-800: #1F1F1F;
     --grey-700: #333333;
     --green: #C4F82A;
     --white: #FFFFFF;
 
-
-    /* Fazer custom properties das fontes */
-
-
-    /* Fazer custom properties dos espaçamentos */
+    /* Custom properties for spacing */
+    --spacing-500: 40px;
+    --spacing-300: 24px;
+    --spacing-200: 12px;
+    --spacing-100: 8px;
+    --spacing-50: 4px;
 }
