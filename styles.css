@@ -15,6 +15,13 @@
 
 @font-face {
     font-family: 'Inter';
+    font-weight: 600;
+    src: url('./assets/fonts/static/Inter-SemiBold.woff2') format('woff2'),
+         url('./assets/fonts/static/Inter-SemiBold.woff')  format('woff');
+}
+
+@font-face {
+    font-family: 'Inter';
     font-weight: 400;
     src: url('./assets/fonts/static/Inter-Regular.woff2') format('woff2'),
          url('./assets/fonts/static/Inter-Regular.woff') format('woff');
@@ -41,3 +48,4 @@
     width: 88px;
     border-radius: 44px;
 }
+
