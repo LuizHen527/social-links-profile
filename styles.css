@@ -36,3 +36,8 @@
     --spacing-100: 8px;
     --spacing-50: 4px;
 }
+
+.card-container img {
+    width: 88px;
+    border-radius: 44px;
+}
