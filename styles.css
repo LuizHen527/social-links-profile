@@ -123,3 +123,9 @@ p {
     background-color: var(--green);
     cursor: pointer;
 }
+
+@media (max-width: 600px) {
+    .card-container {
+        width: 327px;
+    }
+}
