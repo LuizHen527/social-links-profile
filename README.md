@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a project made to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Status: In Progress.
+This is a project made to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Status: Completed.
 
 
 ## Table of contents
@@ -18,8 +18,6 @@ This is a project made to the [Blog preview card challenge on Frontend Mentor](h
 ### Screenshot
 
 ![](./assets/images/page-screenshot.png)
-
-Im going to add later
 
 ### Links
 
