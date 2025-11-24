@@ -62,11 +62,19 @@ html {
     display: flex;
     flex-direction: column;
     width: 384px;
+    padding: var(--spacing-500);
+    align-items: center;
+    gap: var(--spacing-300);
 }
 
 .card-container img {
     width: 88px;
     border-radius: 44px;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
 }
 
 .title h1 {
@@ -80,7 +88,7 @@ html {
     color: var(--green);
 }
 
-.title p {
+p {
     font-weight: 400;
     font-size: 14px;
 }
@@ -88,6 +96,7 @@ html {
 .buttons {
     display: flex;
     flex-direction: column;
+    width: 100%;
 }
 
 .buttons button{
