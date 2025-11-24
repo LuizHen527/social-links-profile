@@ -65,6 +65,8 @@ html {
     padding: var(--spacing-500);
     align-items: center;
     gap: var(--spacing-300);
+
+    border-radius: 12px;
 }
 
 .card-container img {
@@ -73,8 +75,11 @@ html {
 }
 
 .title {
+    display: flex;
+    flex-direction: column;
     width: 100%;
     text-align: center;
+    gap: var(--spacing-50);
 }
 
 .title h1 {
@@ -97,9 +102,16 @@ p {
     display: flex;
     flex-direction: column;
     width: 100%;
+    gap: var(--spacing-200);
 }
 
 .buttons button{
     border: none;
+    font-family: 'Inter';
+    font-weight: 700;
+    color: var(--white);
     background-color: var(--grey-700);
+
+    padding: 12px 0px;
+    border-radius: 8px;
 }
