@@ -10,23 +10,20 @@ This is a project made to the [Blog preview card challenge on Frontend Mentor](h
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/page-screenshot.png)
 
 Im going to add later
 
 ### Links
 
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Github Pages](https://luizhen527.github.io/social-links-profile/)
 
 ## My process
 
@@ -36,17 +33,11 @@ Im going to add later
 - CSS custom properties
 - Flexbox
 
-### What I learned
-
-nothing yet
-
 ### Continued development
 
-nothing yet
+These are the things I still need to get better at or study more about:
 
-### Useful resources
-
-nothing yet
+- Learn best way to use relative units.
 
 <!-- - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept. -->
